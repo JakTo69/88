@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<audio controls="controls">
+<source src="123.mp3" type="audio/mp3">
+</audio>
+<audio controls="controls">
+<source src="12.wav" type="audio/wav">
+</audio>
+</body>
+</html>
